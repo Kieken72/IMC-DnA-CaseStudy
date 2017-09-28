@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BestellingenKaft xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bestellingen>
+    <Bestelling>
+      <BestelNummer>0001</BestelNummer>
+      <KlantNaam>Involved</KlantNaam>
+      <KlantAdres>Veldkant</KlantAdres>
+      <BestelDatum>2017-09-26T16:42:22.8743474+02:00</BestelDatum>
+      <Items>
+        <BestellingLijn>
+          <Artikel>
+            <ArticleNumber>cc33</ArticleNumber>
+            <Naam>Coca Cola 33cl</Naam>
+            <SalesPrice>2</SalesPrice>
+            <PurchasePrice>0.45</PurchasePrice>
+          </Artikel>
+          <Aantal>1</Aantal>
+        </BestellingLijn>
+        <BestellingLijn>
+          <Artikel>
+            <ArticleNumber>gv15</ArticleNumber>
+            <Naam>Glaasje Vino</Naam>
+            <SalesPrice>3</SalesPrice>
+            <PurchasePrice>0.65</PurchasePrice>
+          </Artikel>
+          <Aantal>1</Aantal>
+        </BestellingLijn>
+        <BestellingLijn>
+          <Artikel>
+            <ArticleNumber>lb1</ArticleNumber>
+            <Naam>Portie lookbroodjes</Naam>
+            <SalesPrice>3.5</SalesPrice>
+            <PurchasePrice>0.85</PurchasePrice>
+          </Artikel>
+          <Aantal>1</Aantal>
+        </BestellingLijn>
+        <BestellingLijn>
+          <Artikel>
+            <ArticleNumber>awi1</ArticleNumber>
+            <Naam>Pizza Awai</Naam>
+            <SalesPrice>7</SalesPrice>
+            <PurchasePrice>1.85</PurchasePrice>
+          </Artikel>
+          <Aantal>1</Aantal>
+        </BestellingLijn>
+      </Items>
+      <Type>TelefonischAfhaal</Type>
+      <Status>Wachtend</Status>
+      <IsBetaald>false</IsBetaald>
+      <IsCashPayment>false</IsCashPayment>
+      <DatePaid>0001-01-01T00:00:00</DatePaid>
+      <TotalePrijs>15.5</TotalePrijs>
+    </Bestelling>
+  </Bestellingen>
+</BestellingenKaft>

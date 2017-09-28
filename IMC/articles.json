@@ -1,0 +1,58 @@
+﻿[
+  {
+    "artikelnr": "cc33",
+    "name": "Coca Cola 33cl",
+    "prixdachat": 0.45,
+    "prixdevente": 2,
+    "voorraad": 67
+  },
+  {
+    "artikelnr": "gv15",
+    "name": "Glaasje Vino",
+    "prixdachat": 0.65,
+    "prixdevente": 3,
+    "voorraad": 80
+  },
+  {
+    "artikelnr": "lb1",
+    "name": "Portie lookbroodjes",
+    "prixdachat": 0.85,
+    "prixdevente": 3.5,
+    "voorraad": 7
+  },
+  {
+    "artikelnr": "awi1",
+    "name": "Pizza Awai",
+    "prixdachat": 1.85,
+    "prixdevente": 7,
+    "voorraad": 63
+  },
+  {
+    "artikelnr": "pl7",
+    "name": "Pizza Pollo",
+    "prixdachat": 1.95,
+    "prixdevente": 8,
+    "voorraad": 64
+  },
+  {
+    "artikelnr": "k1",
+    "name": "Korting -10% totaalbedrag",
+    "prixdachat": 0,
+    "prixdevente": 0,
+    "voorraad": 99999
+  },
+  {
+    "artikelnr": "k2",
+    "name": "Gratis levering boven 20 euro",
+    "prixdachat": 0,
+    "prixdevente": 0,
+    "voorraad": 99999
+  },
+  {
+    "artikelnr": "k3",
+    "name": "Pollos Hermanos - korting 2x Pollo derde gratis",
+    "prixdachat": 0,
+    "prixdevente": 0,
+    "voorraad": 99999
+  }
+]
